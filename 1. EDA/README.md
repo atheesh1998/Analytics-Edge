@@ -35,3 +35,12 @@ EDA on stockdata of 5 blue chip companies in the US.
 5. Extracting data of a certain timeframe from the entire timeframe.
 6. Creating a function 'monthy_trends' to create a new column for month and return a dataframe with mean stockprice grouped by month.
 
+## IV: Demographics & Employment in the US
+In the wake of the Great Recession of 2009, there has been a good deal of focus on employment statistics. In the US, the government measures unemployment using the Current Population Survey (CPS), which collects demographic and employment information from a wide range of Americans each month. Exploratory data analysis will be performed using the September 2013 version of this rich, nationally representative dataset.
+
+1. Importing dataset and creating pandas Profile Report.
+2. Parsing Date column to datetime format.
+3. Summary statistics
+4. Value counts for each column in the dataframe, ie., Citiznship, Industry, etc.
+5. Mapping and intergrating data from metrocodes and countrycodes into the main dataframe.
+6. Proportionalities and summations of columns with respect to each other.
